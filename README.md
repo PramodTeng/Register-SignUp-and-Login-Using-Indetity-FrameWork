@@ -17,6 +17,7 @@ Step 2:
 * Add Register/Login Links in the Navbar.  
 * we have to call a "_LoginPartial.cshtml" partial view in our Layout Page by using partial tag. (<partial name = "_LoginPartial" />)
 * "_LoginPartial.cshtml" partial view is located in Views/Shared folder, and that is added by identity.
+* Dont forget to add app.MapRazorPages(); in the program.cs for RazerPage view.
 
 Step 3:
 * Add Some Properties in Application User Class.
