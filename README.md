@@ -4,7 +4,7 @@ Step1:
 
 Add Identity To Our Project.(Right Click on the project, Go to Add, Select New Scaffolded item and Click on identity.)
 
-* Add Layout Page(Maste Page)
+* Add Layout Page(Master Page)
 * Select Features you want to add in Identity.
 * Create a Data Context Class which is used to communicate with our database.
 * Create a user Class.
