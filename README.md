@@ -2,7 +2,7 @@ How this works:
 
 Step1:
 
-Add Identity To Our Project.
+Add Identity To Our Project.(Right Click on the project, Go to Add, Select New Scaffolded item and Click on identity.)
 
 * Add Layout Page(Maste Page)
 * Select Features you want to add in Identity.
